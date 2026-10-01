@@ -1,0 +1,7 @@
+# data is public and large, download it rather than committing it
+data/*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.venv/
